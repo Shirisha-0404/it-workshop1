@@ -1,0 +1,67 @@
+\documentclass{beamer}
+\usetheme{Warsaw}
+
+\title{SELF INTRODUCTION}
+\author{CHEERA SHIRISHA }
+\date{September 2022}
+\begin{document}
+\begin{frame}
+    \maketitle
+\end{frame}
+\begin{frame}{outline}
+\tableofcontents
+\end{frame}
+\section{PERSONAL INFORMATION}
+\begin{frame}{PERSONAL INFORMATION}
+Name: Cheera shirisha \\
+ID: B191952 \\
+Class:CSE C3\\
+ADDRESS:
+\begin{itemize}
+    \item District:Medchal 
+    \item State:Telangana
+    \item PIN: 501301
+\end{itemize}
+\end{frame}
+\section{Education Details}
+\begin{frame}{EDUCATION DETAILS}
+   \begin{table}[h]
+       \centering
+        \caption{Semester grades}
+       \begin{tabular}{|c|c|c|}
+        \hline
+         S.no. &  year\&sem & grade\\
+         \hline
+         1 & p1s1 & 8.9\\
+        \hline
+         2 & p1s2 & 9\\
+        \hline
+         3 & p2s1 & 9.1\\
+         \hline
+         4 & p2s2 & 9.12\\
+        \hline
+       \end{tabular}
+   \end{table}
+\end{frame}
+
+\section{Hobbies}
+\begin{frame}
+    \begin{block}{HOBBIES}
+    \begin{enumerate}
+        \item Reading books
+        \item Browsing net
+        \item Learning new things
+        \item playing games
+    \end{enumerate}
+    \end{block}
+\end{frame}
+
+\begin{frame}
+    \begin{center}
+    \begin{figure}[h]
+        \centering
+        \includegraphics[width=5cm, height=5cm]{IMG_20220810_222700_889.jpg}
+    \end{figure}
+\end{center}
+\end{frame}
+\end{document}
