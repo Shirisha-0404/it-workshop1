@@ -1,0 +1,50 @@
+\documentclass{article}
+\usepackage{color }
+\usepackage{graphicx}
+\title{\color{red}RESUME}
+\author{CH.SHIRISHA }
+\begin{document}
+\section{\color{blue}RESUME}
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=2cm,height=3cm]{Screenshot_20221004-195724_Photos~2.jpg}
+    
+\end{figure}
+\section{\textit{\color{blue}PERSONAL INFORMATION }}
+Name: CHEERA SHIRISHA \\
+ID: B191952\\
+Class:CSE C3\\
+DISTRICT:MEDCHAL \\
+MANDAL:Kessara\\
+State:Telangana\\
+PIN: 501301
+\section{\textit{\color{blue}GRADE DETAIL}}
+       \begin{tabular}{|c|c|c|}
+        \hline
+         S.no. &  year\&sem & grade\\
+         \hline
+         1 & p1s1 & 8.8\\
+        \hline
+         2 & p1s2 & 9\\
+        \hline
+         3 & p2s1 & 9.63\\
+         \hline
+         4 & p2s2 & 9.63\\
+        \hline
+       \end{tabular}
+\section{\textit{\color{blue}HOBBIES}}
+    \begin{enumerate}
+        \item Reading books
+        \item playing games
+        \item Learning new things
+        \item watching new movies
+    \end{enumerate}
+\section{\textit{\color{blue}ACHIEVEMENTS}}
+\begin{enumerate}
+    \item 10/10 in my SSC 
+    \item mandal topper 
+    \item appreciated by my dist MLA sir
+\end{enumerate}
+\section{\textit{\color{blue}OBJECTIVE}}
+Enjoying every moment of life,updating with time&technology,acquiring knowledge from various sources 
+\end{document}
